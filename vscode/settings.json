@@ -1,0 +1,60 @@
+// Place your settings in this file to overwrite the default settings
+{
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "css.validate": false, // Disable css built-in lint
+  "stylelint.enable": true, // Enable sytlelint
+  "editor.fontFamily": "Fira Code",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 18,
+  "editor.fontWeight": "500",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.renderWhitespace": "all",
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "editor.fontLigatures": true,
+  "editor.renderControlCharacters": true,
+  "editor.renderLineHighlight": "line",
+  "editor.showFoldingControls": "always",
+  "editor.tabCompletion": true,
+  "window.restoreWindows": "folders",
+  "explorer.openEditors.visible": 5,
+  "extensions.ignoreRecommendations": true,
+  "workbench.activityBar.visible": true,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/.DS_Store": true,
+    "node_modules": false
+  },
+  "javascript.validate.enable": false,
+  "files.associations": {
+    "*.js": "javascript",
+    "*.css": "css"
+  },
+  "window.zoomLevel": -1,
+  "workbench.colorTheme": "Atom One Dark",
+  "workbench.iconTheme": "vs-seti",
+  "typescript.check.npmIsInstalled": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "editor.suggest.localityBonus": true,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "prettier.eslintIntegration": true,
+  "editor.minimap.enabled": false,
+  "workbench.panel.defaultLocation": "right",
+  "terminal.integrated.copyOnSelection": true,
+  "terminal.integrated.confirmOnExit": true,
+  "terminal.integrated.macOptionClickForcesSelection": true,
+  "terminal.integrated.scrollback": 1000000000000,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.defaultLanguage": "javascript",
+  "debug.allowBreakpointsEverywhere": true,
+  "sync.gist": "581de997646c8ab15bd5f540c78ee36e"
+}
